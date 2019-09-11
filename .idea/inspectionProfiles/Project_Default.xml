@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="python_textmining_master.python_modules.textmining.db" />
+          <option value="python_textmining_master.python_modules.textmining.model" />
+          <option value="python_textmining_master.python_modules.textmining.service" />
+          <option value="settings" />
+          <option value="python_textmining_master.python_modules.db.mongos.model" />
+          <option value="python_textmining_master.python_modules.db.mongos.db" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
